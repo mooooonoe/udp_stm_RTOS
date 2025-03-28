@@ -1,6 +1,6 @@
-# STM32 Ethernet (RMII) + LwIP + UDP 수신 예제
+# STM32 Ethernet (RMII) + LwIP + UDP 활성화
 
-이 프로젝트는 STM32 + LAN8720 기반 RMII 연결을 통해 Ethernet 통신을 구성하고, LwIP 스택을 이용하여 UDP 데이터를 수신/응답하는 예제입니다.
+STM32 + LAN8720 기반 RMII 연결을 통해 Ethernet 통신을 구성하고, LwIP 스택을 이용하여 UDP 데이터를 수신/응답하는 
 
 ---
 
